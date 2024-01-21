@@ -1,0 +1,13 @@
+@import url("~leaflet/dist/leaflet.css");
+.leaflet-container {
+  width: 90%;
+  height: 80vh;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 50px;
+}
+
+.judul{
+  text-align: center;
+  color: white;
+}
